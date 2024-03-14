@@ -1,0 +1,25 @@
+@import url('reset.css');
+
+.red {
+	color: red;
+}
+
+.red p {
+	color: lightcoral;
+}
+
+.blue > p {
+	color: blue;
+}
+
+[class*='nge'] {
+	color: orange;
+}
+
+.green p {
+	color: green;
+}
+
+.purple * {
+	color: purple;
+}
