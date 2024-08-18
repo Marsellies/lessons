@@ -27,12 +27,10 @@ body {
 	text-align: center;
 }
 
-.sub-title {
-	p {
-		font-size: 14px;
-		font-family: 'Anek Devanagari';
-		font-weight: 400;
-	}
+.sub-title p {
+	font-size: 14px;
+	font-family: 'Anek Devanagari';
+	font-weight: 400;
 }
 
 h3 {
