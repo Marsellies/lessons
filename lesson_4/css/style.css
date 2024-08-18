@@ -92,39 +92,3 @@ li {
 	text-decoration: underline;
 	text-decoration-color: rgba(207, 15, 15, 0.222);
 }
-
-.title {
-	/* 
-	color: green;
-	text-decoration: line-through;
-	text-decoration-color: red;
-	text-decoration-style: double;
-	 */
-	/* (!не працбє в сафарі) text-decoration: line-through double red; */
-}
-
-/*
-Встановлює тип (регістр) літер (прописні або заглавні)
-text-transform: значення;
-успадковується (текстом)
-capitalize - кожне слово починається з заглавної літери
-lowercase - усі літери прописні (нижній регістр)
-uppercase - усі літери заглавні (верхній регістр)
-none - (за замовчунням) не змінює (або відмініє) значення
-*/
-
-.title {
-	/* text-transform: uppercase; */
-}
-
-.title {
-	/* letter-spacing: 10px; */
-}
-
-.title {
-	/* word-spacing: 50px; */
-}
-
-.text {
-	/* white-space: nowrap; */
-}
